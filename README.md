@@ -42,6 +42,8 @@ Este proyecto tiene como objetivo facilitar la consulta de información sobre Po
 
 1. Descarga o clona este repositorio.
 2. Abre el archivo Jupyter Notebook `Pokemon_ETL.ipynb` para ver el análisis en detalle.
+3. Ruta del Dashboard Power BI Pokémon [aquí](dashboard/analisis_pokemon.pbix)
+   se puede descargar el archivo ya que github no se logra visualizar :).
 
 # Datos y Fuentes
 
