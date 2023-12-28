@@ -2,13 +2,15 @@
 
 ![Logo de Pokémon](fondo/Daco_5394286.png)
 
-## Este repositorio contiene un análisis exploratorio de datos sobre Pokémon. Exploramos diversas estadísticas y características de los Pokémon a lo largo de las siete generaciones.
+# Objetivo
+
+Este proyecto tiene como objetivo facilitar la consulta de información sobre Pokémon de manera sencilla y visual. Proporciona una herramienta interactiva donde los usuarios pueden conocer detalles clave, como el nombre, la generación, el tipo y las imágenes asociadas a cada Pokémon. El análisis exploratorio se ha realizado con el fin de ofrecer una experiencia amigable para aquellos que pueden no estar familiarizados con la extensa variedad de Pokémon.
 
 
 
  ![Bulbasaur](fondo/Daco_1804122.png)
 
-## Contenido del Repositorio
+# Contenido del Repositorio
 
 - **1. Carga y Limpieza de Datos:** [Pokemon ETL](etl/Pokemon_ETL.ipynb)
    - Cargamos el dataset inicial.
@@ -24,18 +26,24 @@
    - Visualizaciones interactivas con estadísticas detalladas.
    - Integración de imágenes de Pokémon.
 
+# Tecnologías Usadas
+- Lenguaje de Programación: Python
+- Librerías Principales: Pandas, NumPy, Matplotlib, Seaborn
+- Herramientas de Colaboración: Google Colab
+- Herramienta de Visualización: Power BI
+- Alojamiento: GitHub 
 
-## Capturas de Pantalla
+# Capturas de Pantalla 
 
  ![Visualización 1](fondo/2.png)
  ![Visualización 2](fondo/3.png)
 
-## Cómo Ejecutar el Análisis
+# Cómo Ejecutar el Análisis
 
 1. Descarga o clona este repositorio.
 2. Abre el archivo Jupyter Notebook `Pokemon_ETL.ipynb` para ver el análisis en detalle.
 
-## Datos y Fuentes
+# Datos y Fuentes
 
 - **Dataset Principal:** [Kaggle](https://www.kaggle.com/datasets/rounakbanik/pokemon)
 - **Pokedex Oficial:** [Diccionario de Evoluciones, Géneros y Tipos](https://www.pokemon.com/es/pokedex)
