@@ -33,12 +33,14 @@
 ## Cómo Ejecutar el Análisis
 
 1. Descarga o clona este repositorio.
-2. Abre el archivo Jupyter Notebook `analisis_pokemon.ipynb` para ver el análisis en detalle.
+2. Abre el archivo Jupyter Notebook `Pokemon_ETL.ipynb` para ver el análisis en detalle.
 
 ## Datos y Fuentes
 
-- Los datos utilizados se encuentran en el archivo `pokemon_dataset.csv`.
-- Las imágenes de Pokémon están en la carpeta `images`.
+- **Dataset Principal:** [Kaggle](https://www.kaggle.com/datasets/rounakbanik/pokemon)
+- **Pokedex Oficial:** [Diccionario de Evoluciones, Géneros y Tipos](https://www.pokemon.com/es/pokedex)
+- **Imagénes Pokemon:** [PokemonAPI](https://pokeapi.co/docs/v2)
+
 
 ---
 
